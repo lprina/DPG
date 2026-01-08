@@ -82,4 +82,4 @@ Approval tests ensure confidence when refactoring by comparing current output wi
 
 https://github.com/emilybache/GildedRose-Refactoring-Kata 
 
-https://github.com/approvals/ApprovalTests.Python"
+https://github.com/approvals/ApprovalTests.Python
